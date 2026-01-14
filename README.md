@@ -25,7 +25,7 @@
 - python -m venv venv
 - venv\Scripts\activate      # Windows
 - pip install -r requirements.txt
-- python -m uvicorn main:app --reload --port 8001
+- python -m uvicorn main:app --reload --port 8001 # or any free port available
 
 ## swagger UI
 http://127.0.0.1:8001/docs
