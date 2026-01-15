@@ -20,7 +20,7 @@
 
 ## Setup & Run
 
-- git clone https://github.com/<your-username>/fastapi-transactions-api.git
+- git clone https://github.com/AntonBalaskevits/Scenario.git
 - cd fastapi-transactions-api
 - python -m venv venv
 - venv\Scripts\activate      # Windows
